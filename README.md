@@ -290,6 +290,3 @@ as your own priorities take shape):
 
 ---
 
-## License
-
-Internal tooling — adapt as needed for your project.
