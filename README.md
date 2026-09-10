@@ -281,12 +281,8 @@ as your own priorities take shape):
 
 - Parallel test execution to cut down full-suite runtime
 - Auto-generating a starter `--selector-map` by scanning the app's DOM
-- Smarter multi-step / multi-role parsing (e.g. steps that navigate
-  between pages or switch role mid-test)
 - Retry / self-healing selectors when the DOM changes slightly
 - An HTML/PDF summary report in addition to the Excel output
-- CI/CD integration (e.g. a GitHub Actions workflow that runs this on
-  every PR)
 
 ---
 
